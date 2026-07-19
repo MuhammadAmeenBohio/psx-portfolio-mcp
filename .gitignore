@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.python-version
+
+# Personal data — don't commit real portfolio data
+*.db
+macro_cache.json
+
+# Environment/secrets
+.env
